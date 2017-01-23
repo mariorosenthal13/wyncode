@@ -1,0 +1,5 @@
+REPL Game Read Me
+
+This is a Choose Your Own Adventure game as a day in the life of a gecko in the forest.  You must explore, find food,
+find shelter, and avoid predators.  Be careful with the choices that you make, you want to make sure you survive the day!
+
